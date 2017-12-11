@@ -1,0 +1,26 @@
+BOTS WORKS ON: 
+- gaver.io
+- cellcraft.io
+- nbk.io
+- mgar.io
+- astr.io
+- galx.io
+- rata.io
+
+[!IMPORTANT]: Decompress node_modules.rar before using the bots
+
+1- To use Bots in Mgar.io You Have To Use Http Proxies so Update ProxiesHttp.txt
+2- To use Bots in all other games that are not MGAR you can use Proxies Socks so Update ProxiesSocks.txt
+
+3- You Can Get SOCKS Proxies Here => http://www.vipsocks24.net/
+4- You Can Get HTTP Proxies Here => http://proxyserverlist-24.blogspot.com.es/
+
+5- (UPDATE Proxies Every Day!!)
+
+6- To Start the bots:
+- Make sure you have UserScript Enabled (ON USERSCRIPT YOU CAN CHANGE BOT HOTKEYS TO SPLIT, EJECT, START)
+- Then Enter To the game you want to play with the bots
+- Connect to a server on the game
+- Start RunBots.bat File
+- Once the Terminal says "Client Connected", Press X To Start Bots
+- Enjoy ;P
